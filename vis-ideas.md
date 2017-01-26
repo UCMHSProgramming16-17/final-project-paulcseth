@@ -1,0 +1,2 @@
+I don't know if this exists in this form, but it would be cool if I could make a scatterplot with three axis to plot my dota match data; maybe to graph winrate againt net worth disadvantage against 15 minute kill difference to show the best comebacks?
+I could also use one of the iris scatterplots with the different icons for plotting to show the third aspect of the data set, maybe comparing my hero, kda, and winrate to show what I do best with. 
